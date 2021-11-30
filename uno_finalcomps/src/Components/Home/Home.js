@@ -18,7 +18,7 @@ class Home extends React.Component{
                 <h1>Three! Two! Uno!</h1>
                 
                 <div className = "title">
-                    This is a text-based web application version of the classic card game Uno! 
+                    This is a text-based web application version of the classic card game Uno!
                     <p>
                     The rules are simple: try your best to discard all the cards that you are dealt.
                     Any cards left that are not accounted for will be used to rank your status using a unique point system: 
