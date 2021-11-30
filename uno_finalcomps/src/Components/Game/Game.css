@@ -1,0 +1,46 @@
+.boxWidth{
+    margin-top: 50px;
+    margin:auto;
+    padding:5px;
+    width: 1000px;
+    height: 110px;
+    overflow: auto;
+    text-align:center;
+}
+
+  html {
+    height: 100%;
+  }
+  .columnC {
+    column-count: 7;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  
+  .Notes {
+    column-count: 2;
+  }
+  
+  .NumCards {
+    text-align: start;
+    font-size: medium;
+    padding-left: 50px;
+  }
+  
+  .Other {
+    text-align: end;
+    font-size: medium;
+    padding-right: 50px;
+  }
+  
+  .currentCard {
+    align-items: center;
+    justify-content: center;
+    display: inline-block;
+  }
+
+  .Timer{
+    position: center;
+    width: 30px;
+    height: 52px;
+  }

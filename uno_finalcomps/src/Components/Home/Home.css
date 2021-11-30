@@ -1,0 +1,67 @@
+.App{
+    text-align: center;
+    
+}
+
+html {
+    background-color: rgb(255, 240, 245);
+    text-align: center;
+}
+
+.home{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+    margin: auto;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    padding: 5px;
+    color:rgb(176, 196, 222);
+    font-weight: 900;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.title{
+    margin-top: 30px;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    width: 400px;
+    height: 200px;
+    margin-bottom: 30px;
+
+}
+
+.start{
+    margin: auto;
+    text-align: center;
+    height: 40px;
+    width: 100px;
+    margin-top: 30px;
+    background-color: rgb(231, 237, 125);
+}
+@media screen and (min-width: 768px){
+    h1{
+        font-size: 45px;
+    }
+
+    .title{
+        
+        width: 600px;
+      
+    }
+}
+
+@media screen and (min-width: 992px){
+    h1{
+        font-size: 55px;
+    }
+
+    .title{
+        width: 700px;
+        
+    }
+}
