@@ -36,11 +36,11 @@ h1 {
 }
 
 .start{
-    margin: auto;
+    margin-top: 70%;
+    position: relative;
     text-align: center;
     height: 40px;
     width: 100px;
-    margin-top: 30px;
     background-color: rgb(231, 237, 125);
 }
 @media screen and (min-width: 768px){
@@ -53,6 +53,10 @@ h1 {
         width: 600px;
       
     }
+
+    .start{
+        margin-top: 35%;
+    }
 }
 
 @media screen and (min-width: 992px){
@@ -63,5 +67,9 @@ h1 {
     .title{
         width: 700px;
         
+    }
+
+    .start{
+        margin-top: 15%;
     }
 }

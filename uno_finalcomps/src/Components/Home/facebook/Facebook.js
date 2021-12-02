@@ -1,4 +1,4 @@
-import React from "react";
+/**import React from "react";
 import {withRouter} from "react-router";
 import FacebookLogin from "react-facebook-login";
 import "./../Home.css";
@@ -91,3 +91,4 @@ class Facebook extends React.Component {
 }
 
 export default withRouter(Facebook);
+*/
