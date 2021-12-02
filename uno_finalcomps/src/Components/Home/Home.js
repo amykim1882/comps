@@ -1,7 +1,7 @@
 import React from "react";
 import "./Home.css";
 import {withRouter} from "react-router";
-//import Facebook from "./facebook/Facebook";
+
 
 class Home extends React.Component{
     constructor(){
