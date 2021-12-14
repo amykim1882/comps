@@ -21,7 +21,7 @@ class Home extends React.Component{
                         This is a text-based web application version of the classic card game Uno!
                     <p>
                         The rules are simple! Try your best to discard all the cards that you are dealt within the
-                        3-minute time limit of the game. The rules of the text-based version of Uno will implement the rules from the
+                        3-minute time limit of the game. The rules of the text-based version of Uno are from the
                         official rule book of Uno. The rules of this game is to match the current card either by number, color, or action.
                         For example, if the current card is a green 7, you must play a green card or any color 7. Or, you may play 
                         any color switch or a wild +4 card. If you don't have anything that matches, a card
@@ -46,7 +46,7 @@ class Home extends React.Component{
 
                     <p>
                         If you wish to discard a color switch or wild +4 card, simply just click
-                        on the word
+                        on the word of the color you wish to change the current card to.
                     </p>
                     <p>
                         At any point, if you wish to restart the game, please press the "Restart Game" button located at 

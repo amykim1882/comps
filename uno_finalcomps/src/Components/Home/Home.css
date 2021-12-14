@@ -32,11 +32,12 @@ h1 {
     width: 400px;
     height: 200px;
     margin-bottom: 30px;
+    font-size: 15px;
 
 }
 
 .start{
-    margin-top: 70%;
+    margin-top: 95%;
     position: relative;
     text-align: center;
     height: 40px;
