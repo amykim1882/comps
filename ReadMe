@@ -1,3 +1,6 @@
+Since this project requires quite a lot of downloads, please ensure that you have enough disk space
+to fully download the github file, node.js modules, and npm install.
+
 Before downloading the github file, please try running the commands in terminal:
 node -v
 npm -v
