@@ -5,6 +5,9 @@ Before downloading the github file, please try running the commands in terminal:
 node -v
 npm -v
 
+Your terminal should look like this once you try running the commands:
+
+
 If something other than v12.9.0 shows up for the node -v command and something other than 6.14.8 
 shows up for the npm -v command, then please go to this link https://nodejs.org/en/download/ and 
 download node.js by following the instructions on the page. There are different node packages for 
