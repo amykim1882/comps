@@ -1,1 +1,24 @@
+Before downloading the github file, please try running the commands in terminal:
+node -v
+npm -v
+
+If something other than v12.9.0 shows up for the node -v command and something other than 6.14.8 
+shows up for the npm -v command, then please go to this link https://nodejs.org/en/download/ and 
+download node.js by following the instructions on the page. There are different node packages for 
+download depending on whether you have a windows, mac, or source code installer. 
+
+After downloading the node.js package, please check it has been correctly downloaded by running the 
+two commands above again in terminal. The version packages should be v12.9.0 for node -v and 6.14.8
+for npm -v. 
+
+After verifying that the node.js package has been downloaded, please download the github zip file 
+and open up your zip file on your desktop. In your terminal, please cd Desktop, then cd comps, 
+and cd uno_finalcomps. The cd might differ depending on where you decide to move the comps folder. 
+Once you cd to uno_finalcomps, please run the following command: npm install
+
+The command above will download the necessary files to run this project and might take a while. 
+After the download finishes, please run the command: npm run start
+
+Congratulations! You have successfully executed this project! Please enjoy the text-based web 
+application version of Uno!
 
